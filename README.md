@@ -1,1 +1,1 @@
-# timeseriesAI repo has been moved to [tsai](https://github.com/timeseriesAI/tsai).
+# timeseriesAI/timeseriesAI repo has been moved to [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai).
