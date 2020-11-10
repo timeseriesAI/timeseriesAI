@@ -1,1 +1,1 @@
-# timeseriesAI has been renamed to [tsai](https://github.com/timeseriesAI/tsai2).
+# The timeseriesAI has been renamed to [tsai](https://github.com/timeseriesAI/tsai).
