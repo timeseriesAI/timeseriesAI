@@ -1,1 +1,1 @@
-# timeseriesAI0
+# timeseriesAI has been renamed to [tsai](https://github.com/timeseriesAI/tsai).
